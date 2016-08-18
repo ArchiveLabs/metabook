@@ -6,6 +6,8 @@ One metadata entry for every book
 
 - [Background](#background)
 - [Installation](#installation)
+- [Usage](#usage)
+- [Supported Sources](#supported-sources)
 
 ## Background
 
